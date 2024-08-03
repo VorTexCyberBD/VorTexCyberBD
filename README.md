@@ -12,7 +12,6 @@
   <a href="#mission">Mission</a> •
   <a href="#services">Services</a> •
   <a href="#expertise">Expertise</a> •
-  <a href="#impact">Impact</a> •
   <a href="#testimonials">Testimonials</a> •
   <a href="#contact">Contact</a>
 </p>
