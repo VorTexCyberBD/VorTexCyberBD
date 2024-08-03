@@ -77,7 +77,6 @@ Ready to secure your digital assets? Let's talk!
 
 - 📧 Email: secure@vortexcyberbd.com
 - 🌐 Web: [www.vortexcyberbd.com](https://www.vortexcyberbd.com)
-- 📱 Phone: +880 2 XXXX XXXX
 - 🏢 Address: Cyber Tower, Digital Avenue, Dhaka 1000, Bangladesh
 
 ---
