@@ -40,15 +40,7 @@ At VorTexCyberBD, we're on a relentless pursuit to fortify Bangladesh's digital 
 - **IoT Security Solutions**
 - **Blockchain Security**
 - **AI-driven Threat Analysis**
-
-## 📊 Impact
-Cybersecurity Projects Completed
-[████████████████████████████] 1000+
-Vulnerabilities Patched
-[███████████████████████████░] 50,000+
-Clients Protected
-[██████████████████████████░░] 500+
-Copy
+- 
 ## 💬 Testimonials
 
 > "VorTexCyberBD transformed our security posture. Their expertise is unmatched!" 
