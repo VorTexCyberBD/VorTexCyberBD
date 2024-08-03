@@ -22,6 +22,21 @@
 
 At VorTexCyberBD, we're on a relentless pursuit to fortify Bangladesh's digital landscape. Our mission is to empower businesses, organizations, and individuals with cutting-edge cybersecurity solutions, ensuring a safer digital future for our nation.
 
+
+## Installation
+
+```bash
+npm install
+```
+
+## Running the app
+
+```bash
+npm run dev
+```
+
+Visit http://localhost:3000 in your browser to see the website.
+
 ## 🛡️ Services
 
 | Service | Description |
