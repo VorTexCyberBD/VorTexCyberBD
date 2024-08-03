@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/200" alt="VorTexCyberBD Logo" width="200">
+  <img src="src/public/images/logo.png" width="200">
 </p>
 
 <h1 align="center">VorTexCyberBD</h1>
